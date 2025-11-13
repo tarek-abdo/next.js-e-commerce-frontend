@@ -1,4 +1,4 @@
-# Digital Store – Digital Products & Tech Courses Platform
+# E-commerce Digital Store – Digital Products & Tech Courses Platform
 
 **Digital Store** is a modern web application designed to sell **digital products** and provide **technological courses**. 
 Built with **Next.js 14**, **Tailwind CSS**, and **Strapi**, it offers a seamless shopping experience with secure authentication and instant access to purchased products.
